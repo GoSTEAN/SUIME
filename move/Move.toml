@@ -1,0 +1,11 @@
+[package]
+name = "suime"
+version = "0.1.0"
+authors = ["suime"]
+
+[addresses]
+Suime = "0x1"
+
+[build]
+# Sui Move packages typically use `sui move build` to compile
+# This file is intentionally minimal — adjust addresses and metadata as needed.
